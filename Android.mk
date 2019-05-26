@@ -9,7 +9,7 @@ LOCAL_MODULE := AntennaPod
 
 LOCAL_CERTIFICATE := platform
 
-LOCAL_SRC_FILES := app/build/outputs/apk/standard/debug/app-standard-debug.apk
+LOCAL_SRC_FILES := app/build/outputs/apk/free/debug/app-free-debug.apk
 
 LOCAL_MODULE_CLASS := APPS
 
